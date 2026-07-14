@@ -187,31 +187,24 @@ text
 ---
 
 ## 🗂️ 项目文件结构
+```plaintext
 📦 EvolveMind/
-│
-├── 📄 README.md ← 你现在在这里
-├── 📄 index.html ← 首页（四个入口）
-│
+├── 📄 README.md
+├── 📄 index.html          # 首页（四个入口）
 ├── 📁 /math/
-│ └── index.html ← 数学模式
-│
+│   └── 📄 index.html      # 数学模式
 ├── 📁 /econ/
-│ └── index.html ← 经济模式
-│
+│   └── 📄 index.html      # 经济模式
 ├── 📁 /ai/
-│ └── index.html ← AI模式
-│
+│   └── 📄 index.html      # AI模式
 ├── 📁 /lingua/
-│ └── index.html ← 语言模式
-│
+│   └── 📄 index.html      # 语言模式
 ├── 📁 /core/
-│ └── lab.html ← 画圈实验引擎
-│
+│   └── 📄 lab.html        # 画圈实验引擎
 ├── 📁 /data/
-│ └── chart.html ← 数据看板
-│
+│   └── 📄 chart.html      # 数据看板
 └── 📁 /cases/
-└── doubao.html ← 豆包对话案例
+    └── 📄 doubao.html     # 豆包对话案例
 
 text
 
